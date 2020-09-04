@@ -22,7 +22,7 @@
             "containers":[
                {
                   "name":"blue",
-                  "image":"nandakumarthiagarajan/Udacitycap",
+                  "image":"nandakumarthiagarajan/udacitycap",
                   "ports":[
                      {
                         "name":"http-server",
